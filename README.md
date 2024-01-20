@@ -8,15 +8,15 @@ Este é um simulador interativo em Python usando a biblioteca Tkinter para estim
 
 ## Como Executar
 1. Certifique-se de ter o Python instalado no seu sistema.
-2. Execute o script `pi_estimator.py`.
+2. Execute o script `main.py`.
 
 ```bash
 python pi_estimator.py
 ```
-###A interface gráfica será exibida, permitindo interação com o simulador.
-##Funcionalidades
-Geração interativa de pontos aleatórios.
-Atualização em tempo real de estatísticas, incluindo acertos, erros e estimativa de π.
-Reinicialização da simulação com a opção de especificar o número de gerações.
-Interface simples e intuitiva.
+### A interface gráfica será exibida, permitindo interação com o simulador.
+## Funcionalidades
+- Geração interativa de pontos aleatórios.
+- Atualização em tempo real de estatísticas, incluindo acertos, erros e estimativa de π.
+- Reinicialização da simulação com a opção de especificar o número de gerações.
+- Interface simples e intuitiva.
 
